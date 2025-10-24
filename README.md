@@ -21,7 +21,7 @@ This project was built to practice working with the ** filesystem, JSON and CLI 
 # Installation setup
 1. "Clone or create the project directory"
  ---bash
-  git clone https://github.com/jiafoo/task-tracker-cli.git
+  git clone https://github.com/jiafoo888/PythonProject.git
   cd task-tracker-cli
 
 2. Run directory with Python
