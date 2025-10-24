@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Buy grocesories and food:",
+      "status": "todo",
+      "createdAt": "2025-10-24T06:29:36.904537+00:00",
+      "updatedAt": "2025-10-24T06:29:36.904551+00:00"
+    }
+  ]
+}
